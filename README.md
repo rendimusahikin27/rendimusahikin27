@@ -22,7 +22,6 @@ Lulusan Rekayasa Perangkat Lunak (2020) dari SMK Al Madani Garut yang memiliki k
 ---
 
 ### 📊 GitHub Activity
-Jika gambar di bawah tidak muncul, pastikan Anda telah melakukan aktivitas commit di repositori publik Anda[cite: 1].
 
-![Rendi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rendimusahikin27&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rendimusahikin27&layout=compact&theme=tokyonight)
+![Rendi's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rendimusahikin27&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rendimusahikin27&layout=compact&theme=tokyonight)
