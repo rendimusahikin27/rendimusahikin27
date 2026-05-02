@@ -1,4 +1,4 @@
-# Hi there, I'm Rendi Musahikin Abdulah👋
+# Hi there, I'm Rendi Musahikin Abdulah 👋
 
 ### Full-stack Developer | Cybersecurity Enthusiast | Kali Linux User
 Lulusan Rekayasa Perangkat Lunak (2020) dari SMK Al Madani Garut yang memiliki kombinasi unik antara logika pemrograman dan kemampuan komunikasi profesional.
@@ -8,7 +8,7 @@ Lulusan Rekayasa Perangkat Lunak (2020) dari SMK Al Madani Garut yang memiliki k
 - 🔭 **I’m currently working on:** Pengembangan alat otomatisasi keamanan web menggunakan Python (MD5 Dynamic Decrypter).
 - 🌱 **I’m currently learning:** Penguatan keamanan pada framework Next.JS dan Laravel agar tahan terhadap serangan XSS/SQLi.
 - 💬 **Ask me about:** Web Development (Next.JS, Laravel, Codeigniter), Microsoft Office, dan strategi Sales Lapangan.
-- 📫 **How to reach me:** rendimusahikinabdullah.27@gmail.com atau melalui LinkedIn saya[cite: 1].
+- 📫 **How to reach me:** rendimusahikinabdullah.27@gmail.com[cite: 1].
 - ⚡ **Fun fact:** Saya menggunakan Kali Linux sebagai OS utama dan memiliki latar belakang sebagai Salesman profesional selama 2 tahun[cite: 1].
 
 ---
@@ -21,7 +21,8 @@ Lulusan Rekayasa Perangkat Lunak (2020) dari SMK Al Madani Garut yang memiliki k
 
 ---
 
-### 📊 GitHub Stats
-### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=rendimusahikin27&show_icons=true&theme=tokyonight)
+### 📊 GitHub Activity
+Jika gambar di bawah tidak muncul, pastikan Anda telah melakukan aktivitas commit di repositori publik Anda[cite: 1].
+
+![Rendi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rendimusahikin27&show_icons=true&theme=tokyonight&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rendimusahikin27&layout=compact&theme=tokyonight)
